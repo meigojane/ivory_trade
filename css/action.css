@@ -1,0 +1,38 @@
+.action-title {
+    display: inline-block;
+    width:30%;
+    font-size: 1rem;
+    vertical-align: top;
+}
+
+.action-detail {
+    display: inline-block;
+    width:55%;
+    font-size: 0.8rem;
+    line-height: 30px;
+    margin-bottom: 100px;
+}
+
+.action-detail a {
+    display: block;
+    text-decoration: underline;
+}
+
+.org-categories {
+    width: 100%;
+    font-size: 0;
+}
+
+.org-block {
+    margin-top: 50px;
+    display: inline-block;
+    width: 50%;
+    font-size: 0.8rem;
+    line-height: 25px;
+    vertical-align: top;
+}
+
+.org-block  a {
+    display: block;
+    text-decoration: underline;
+}
