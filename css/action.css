@@ -1,8 +1,15 @@
+.action-header {
+    font-size: 1rem;
+    width: 33%;
+    text-align: center;
+}
+
 .action-title {
     display: inline-block;
     width:30%;
     font-size: 1rem;
     vertical-align: top;
+    text-align: center;
 }
 
 .action-detail {
