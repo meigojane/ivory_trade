@@ -2,6 +2,8 @@
 
 .info-title {
     font-size: 2rem;
+    width: 33%;
+    text-align: center;
 }
 
 .info-what {
@@ -9,6 +11,7 @@
     width:30%;
     font-size: 1rem;
     vertical-align: top;
+    text-align: center;
 }
 
 .info-what-detail {
@@ -46,6 +49,7 @@
     font-size: 1rem;
     vertical-align: top;
     margin-top: 100px;
+    text-align: center;
 }
 
 .info-why-detail {
@@ -62,6 +66,7 @@
     font-size: 1rem;
     vertical-align: top;
     margin-top: 100px;
+    text-align: center;
 }
 
 .info-where-detail {
@@ -96,10 +101,20 @@
 
 .info-graph3-container > img {
     height: auto;
-    width: 93%;
+    width: 65%;
     position: absolute;
-    left: 30px;
+    left: 18%;
     z-index: -1;
+}
+
+.info-caption {
+    display: inline-block;
+    width:30%;
+    font-size: 1rem;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left:50px;
 }
 
 .info-when {
@@ -107,8 +122,13 @@
     width:40%;
     font-size: 1rem;
     vertical-align: top;
-    margin-top: 300px;
+    margin-top: 200px;
     margin-right: 200px;
+}
+
+.info-when > h3 {
+    margin-bottom: 80px;
+    margin-top: 0;
 }
 
 .info-when-img {
@@ -116,7 +136,7 @@
     width:30%;
     font-size: 1rem;
     line-height: 20px;
-    margin-top: 300px;
+    margin-top: 200px;
     object-fit: contain;
 }
 
