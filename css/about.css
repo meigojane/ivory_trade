@@ -1,0 +1,14 @@
+.about-title {
+    display: inline-block;
+    width:30%;
+    font-size: 1rem;
+    vertical-align: top;
+}
+
+.about-detail {
+    display: inline-block;
+    width:55%;
+    font-size: 1rem;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
