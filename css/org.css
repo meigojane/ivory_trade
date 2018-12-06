@@ -1,0 +1,33 @@
+.org-title {
+    display: inline-block;
+    width:25%;
+    font-size: 1rem;
+    vertical-align: top;
+}
+
+.org-detail {
+    display: inline-block;
+    width:55%;
+    font-size: 1rem;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+
+.org-categories {
+    width: 100%;
+    font-size: 0;
+}
+
+.org-block {
+    margin-top: 50px;
+    display: inline-block;
+    width: 50%;
+    font-size: 0.8rem;
+    line-height: 25px;
+    vertical-align: top;
+}
+
+.org-block  a {
+    display: block;
+    text-decoration: underline;
+}

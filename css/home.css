@@ -1,0 +1,6 @@
+.home-title {
+    position: absolute;
+    top:200px;
+    left:100px;
+    z-index: 4;
+}
